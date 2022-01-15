@@ -2,10 +2,9 @@
 My name is Zekiel Perez. A Full-Time Software Developer, but also a Gamer and Game Developer.
 
 ### My Work
-My repositories either highlight my achievements or acts as a base guide for future projects I'm working on that I felt like sharing.
+My repositories either highlight my achievements or act as a base guide for future projects I'm working on that I felt like sharing. 
+Do note that I won't be sharing source codes of games I will be publicly releasing.
 
-### Music
-As a clarinetist for 3 years, bagging a Distinction for Singapore Youth Festival, and a certified Grade 6 acoustic guitarist, I bring my musicality to my passion for game development, often composing music for it. See my compositions and arrangements here: https://sites.google.com/view/zp-eportfolio/music
 
 <!--
 **zekeperez/zekeperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
