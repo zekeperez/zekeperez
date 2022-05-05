@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Zekiel Perez. A Full-Time Software Developer, but also a Gamer and Game Developer.
+My name is Zekiel Perez. 
 
 ### My Work
 My repositories either highlight my achievements or act as a base guide for future projects I'm working on that I felt like sharing. 
