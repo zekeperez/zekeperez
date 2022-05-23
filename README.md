@@ -10,8 +10,11 @@ If you are an employer wishing to see my private repositories, please contact me
 ## Contacts
 
 **Discord** - zeke#6769
+
 **Email** - zekielperezz@gmail.com
+
 **Number** - +65 81869402 _I decline non-local numbers. If you are calling from an international number please contact me with a different method._
+
 **LinkedIn** - [Profile](https://www.linkedin.com/in/zekiel-perez-7b55b6204/)
 
 
