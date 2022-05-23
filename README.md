@@ -5,6 +5,16 @@ My name is Zekiel Perez.
 My repositories either highlight my achievements or act as a base guide for future projects I'm working on that I felt like sharing. 
 Do note that I won't be sharing source codes of games I will be publicly releasing.
 
+If you are an employer wishing to see my private repositories, please contact me first.
+
+## Contacts
+```
+**Discord** - zeke#6769
+**Email** - zekielperezz@gmail.com
+**Number** - +65 81869402 _I decline non-local numbers. If you are calling from an international number please contact me with a different method._
+**LinkedIn** - [Profile](https://www.linkedin.com/in/zekiel-perez-7b55b6204/)
+```
+
 
 <!--
 **zekeperez/zekeperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
