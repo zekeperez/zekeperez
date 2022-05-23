@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Zekiel Perez. 
+My name is Zekiel Perez. I am a Game Developer using Unity and C#. I graduated with a Diploma in Game Design and Development. I am actively looking out for people to collaborate with to create games, both paid and un-paid, so do not hesitate to contact me if you need a developer or project manager for your team!
 
 ### My Work
 My repositories either highlight my achievements or act as a base guide for future projects I'm working on that I felt like sharing. 
@@ -16,6 +16,8 @@ If you are an employer wishing to see my personal projects that are privated, pl
 **Number** - +65 81869402 _I decline non-local numbers. If you are calling from an international number please contact me with a different method._
 
 **LinkedIn** - [Profile](https://www.linkedin.com/in/zekiel-perez-7b55b6204/)
+
+**Portfolio** - [Website](https://zekielperezz.wixsite.com/zekielportfolio)
 
 
 
