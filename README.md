@@ -5,7 +5,7 @@ My name is Zekiel Perez.
 My repositories either highlight my achievements or act as a base guide for future projects I'm working on that I felt like sharing. 
 Do note that I won't be sharing source codes of games I will be publicly releasing.
 
-If you are an employer wishing to see my private repositories, please contact me first.
+If you are an employer wishing to see my personal projects that are privated, please contact me first.
 
 ## Contacts
 
