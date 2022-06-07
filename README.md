@@ -13,8 +13,6 @@ If you are an employer wishing to see my personal projects that are privated, pl
 
 **Email** - zekielperezz@gmail.com
 
-**Number** - +65 81869402 _I decline non-local numbers. If you are calling from an international number please contact me with a different method._
-
 **LinkedIn** - [Profile](https://www.linkedin.com/in/zekiel-perez-7b55b6204/)
 
 **Portfolio** - [Website](https://zekielperezz.wixsite.com/zekielportfolio)
