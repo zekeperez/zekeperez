@@ -3,6 +3,8 @@ My name is Zekiel Perez. I am a Game Developer using Unity and C#. I graduated w
 
 I am currently working as a full-time employee in Singapore while mixing in some personal projects whenever I am free.
 
+I also work with UIUX, Graphic Design and 3D Art and Animations.
+
 ### My Work
 My repositories either highlight my achievements or act as a base guide for future projects I'm working on that I felt like sharing. 
 Do note that I won't be sharing source codes of games I will be publicly releasing.
